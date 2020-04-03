@@ -4,6 +4,14 @@
 	<groupId>hu.unideb.inf</groupId>
 	<artifactId>slf4j-example</artifactId>
 	<version>1.0</version>
+	<developers>
+		<developer>
+			<id>jeszy</id>
+			<email>jeszenszky.peter@inf.unideb.hu</email>
+			<organization>Faculty of Informatics, University of Debrecen</organization>
+			<organizationUrl>https://www.inf.unideb.hu/</organizationUrl>
+		</developer>
+	</developers>
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
