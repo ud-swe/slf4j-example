@@ -20,6 +20,7 @@
 		<slf4j.version>1.7.30</slf4j.version>
 		<tinylog.version>2.2.0</tinylog.version>
 		<exec.mainClass>pkg.Main</exec.mainClass>
+		<exec.cleanupDaemonThreads>false</exec.cleanupDaemonThreads>
 	</properties>
 	<dependencies>
 		<dependency>
