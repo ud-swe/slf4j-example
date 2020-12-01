@@ -15,10 +15,10 @@
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
-		<log4j.version>2.13.1</log4j.version>
+		<log4j.version>2.14.0</log4j.version>
 		<logback.version>1.2.3</logback.version>
 		<slf4j.version>1.7.30</slf4j.version>
-		<tinylog.version>2.1.0</tinylog.version>
+		<tinylog.version>2.2.0</tinylog.version>
 		<exec.mainClass>pkg.Main</exec.mainClass>
 	</properties>
 	<dependencies>
@@ -128,7 +128,7 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-shade-plugin</artifactId>
-				<version>3.2.2</version>
+				<version>3.2.4</version>
 				<executions>
 					<execution>
 						<goals>
